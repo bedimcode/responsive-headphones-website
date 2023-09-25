@@ -1,0 +1,97 @@
+========== HEADER ==========
+.nav__logo
+JBL
+
+.nav__link
+Home - About - Favorites - Models
+
+
+========== HOME ==========
+.home__title
+J B L
+
+.home__tooltip
+$150
+
+.home__button
+Buy Now
+
+.home__social-text
+Follow us
+
+.home__social-link
+https://www.instagram.com/
+https://www.facebook.com/
+https://www.youtube.com/
+
+
+========== ABOUT ==========
+.section__title
+MORE ABOUT US
+
+.about__description
+Enjoy award-winning JBL sound with 
+wireless listening freedom and a sleek, 
+streamlined design with comfortable 
+cushioned earcups that deliver premium 
+playback for the user.
+
+.button
+Know More
+
+
+========== FAVORITE ==========
+.section__title
+CHOOSE YOUR FAVORITE
+
+.favorite__model
+Black Model
+White Model
+Red Model
+Teal Model
+
+
+========== MODEL ==========
+.section__title
+MODEL SPECIFICATIONS
+
+.model__tooltip-text
+Best Comfort
+Easy Adjustment
+Fast Charge
+Custom Audio
+
+.model__button
+Buy Now
+
+
+========== FOOTER ==========
+.footer__logo
+JBL
+
+footer__title .footer__link
+Products
+ Headphones
+ Earphones
+ Earbuds
+ Accesories
+
+Support
+ Product Help
+ Register
+ Updates
+ Provides
+
+.footer__input placeholder
+Email
+
+.footer__button
+Subscribe
+
+.footer__social-link
+https://www.instagram.com/
+https://www.facebook.com/
+https://www.youtube.com/
+
+.footer__copy
+&#169; All Rights Reserved By Bedimcode
